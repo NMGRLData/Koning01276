@@ -6,9 +6,14 @@
         "value": 1.0
     },
     "H1": {
-        "error": 0.0003388825387449074,
+        "error": 0.0002598658552029424,
         "fit": "Bracketing Interpolate",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-577",
+                "uuid": "333a4c54-c055-45e1-b40e-885a25aade64"
+            },
             {
                 "exclude": "ok",
                 "record_id": "c-03-F-578",
@@ -156,7 +161,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0023308510885152
+        "value": 1.0023747077835488
     },
     "H2": {
         "error": 1e-20,
