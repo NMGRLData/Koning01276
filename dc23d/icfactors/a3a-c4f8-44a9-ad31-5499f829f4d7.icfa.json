@@ -171,9 +171,19 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.00048893456756314,
+        "error": 0.0004652955998469145,
         "fit": "Weighted Mean",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-108",
+                "uuid": "7ede8fb7-8618-47ae-8f5e-237eba091b79"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-109",
+                "uuid": "e73978b3-0962-4403-b11c-13612987dd01"
+            },
             {
                 "exclude": "ok",
                 "record_id": "a-03-F-110",
@@ -371,6 +381,6 @@
             }
         ],
         "reviewed": true,
-        "value": 1.001219341216181
+        "value": 1.0011829459109183
     }
 }
