@@ -176,7 +176,7 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.0004652955998469145,
+        "error": 0.0003155720720039996,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -205,7 +205,7 @@
                 "uuid": "12f74f7e-4349-4d29-8067-4cff0f4ef61b"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-113",
                 "uuid": "ec2882ae-27ff-491a-ad93-505f823ad8fb"
             },
@@ -230,7 +230,7 @@
                 "uuid": "04b454a3-e7dd-4361-8670-2c491270eae5"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-118",
                 "uuid": "3f486a15-0a32-446b-bb8e-307eb6e30ac5"
             },
@@ -255,7 +255,7 @@
                 "uuid": "ebcd474b-5083-41d7-987d-b0f9395244a5"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-123",
                 "uuid": "b419ad9f-2bb2-4947-bea8-04192b081e82"
             },
@@ -265,7 +265,7 @@
                 "uuid": "55feec34-0625-49f2-b5ba-964e15795905"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-125",
                 "uuid": "4312ad2f-ca22-406d-86a8-a7e125af6a86"
             },
@@ -340,7 +340,7 @@
                 "uuid": "e7932a83-d5eb-4c27-b799-ede33be5c935"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-140",
                 "uuid": "e6cc266b-ee91-46e0-88b6-addfbb733731"
             },
@@ -350,7 +350,7 @@
                 "uuid": "95ff8f42-ca25-4419-bd89-037292b1b6bb"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-142",
                 "uuid": "d20db85f-f73d-47a8-a5bf-990168be5b7d"
             },
@@ -375,7 +375,7 @@
                 "uuid": "6d34d9e1-c7c1-44d6-9e1f-cb2902fead1d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-147",
                 "uuid": "552621d9-0275-4943-a394-2d7032a693c0"
             },
@@ -386,6 +386,6 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0011829459109183
+        "value": 1.0006575658008983
     }
 }
