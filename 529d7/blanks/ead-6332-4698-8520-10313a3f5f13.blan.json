@@ -104,10 +104,15 @@
         "value": 0.002064350908987914
     },
     "Ar37": {
-        "error": 0.006643613131095143,
+        "error": 0.005023330081353176,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "bu-FD-F-1713",
+                "uuid": "b076664f-576f-4e07-87f7-d698b076bdaf"
+            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FD-F-1714",
@@ -200,13 +205,18 @@
             }
         ],
         "reviewed": true,
-        "value": 0.017553934985730938
+        "value": 0.012029486545085786
     },
     "Ar38": {
-        "error": 0.0017522721642301278,
+        "error": 0.0013852251513769,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "bu-FD-F-1713",
+                "uuid": "b076664f-576f-4e07-87f7-d698b076bdaf"
+            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FD-F-1714",
@@ -299,13 +309,18 @@
             }
         ],
         "reviewed": true,
-        "value": 0.005607835888157379
+        "value": 0.006031911295010456
     },
     "Ar39": {
-        "error": 0.002960247961129055,
+        "error": 0.0027964815219811505,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "bu-FD-F-1713",
+                "uuid": "b076664f-576f-4e07-87f7-d698b076bdaf"
+            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FD-F-1714",
@@ -398,7 +413,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.033078182034634654
+        "value": 0.03238273910552764
     },
     "Ar40": {
         "error": 0.02465554824223994,
